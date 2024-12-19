@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the Final Project of the Class A Knowledge-Based Systems Engineering course on the topic of using Generative AI to detect transaction anomalies and provide an output explanation of the reasons why the transaction is an anomaly.
+This project aims to design and implement a cutting-edge solution that combines Generative AI, Explainable AI (XAI), and a Chatbot Assistant to detect anomalies in financial transactions. The system will identify suspicious activities with high accuracy while providing clear and actionable explanations for why specific transactions are flagged as anomalies. A chatbot will serve as an interactive interface, enabling users to query anomaly details and receive real-time explanations in an intuitive and user-friendly manner.
 
 ## Installation
 
